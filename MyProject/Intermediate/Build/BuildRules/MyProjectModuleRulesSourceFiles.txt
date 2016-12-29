@@ -1,0 +1,3 @@
+C:\Users\Wum_me\Desktop\MATURA\MyUE4Project_Test\MyProject\Source\MyProject\MyProject.Build.cs
+C:\Users\Wum_me\Desktop\MATURA\MyUE4Project_Test\MyProject\Source\MyProject.Target.cs
+C:\Users\Wum_me\Desktop\MATURA\MyUE4Project_Test\MyProject\Source\MyProjectEditor.Target.cs
